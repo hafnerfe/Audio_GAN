@@ -1,7 +1,5 @@
 # Synthezising Audio using Generative Adversarial Networks.
 
-For more Information see [here](https://www.docdroid.net/Bm3gvwU/report.pdf).
-
 ## Transforming the data:
 
 
